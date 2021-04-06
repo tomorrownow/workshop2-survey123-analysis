@@ -1,0 +1,4 @@
+ResearchTriangle|legend/area|5|lf|000:000:000|none|1.5|area|23
+ResearchTriangleCore|legend/area|5|lf|000:000:000|none|2|area|6
+research_triangle_huc12|legend/area|5|lf|191:191:191:255|none|0|area|660
+w2_survey_clusters|basic/point|10|lf|0:29:57|0:103:204|0|point|31
