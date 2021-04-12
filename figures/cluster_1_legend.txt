@@ -1,4 +1,6 @@
-Counties|legend/area|5|lf|grey|none|4|area|6
-B Everett Jordan Lake-New Hope River Watershed|legend/area|5|lf|77:77:77:255|none|2|area|25
+Cluster 1|basic/point|20|lf|black|black|0|point|6
+Drainge|legend/line|5|lf|blue|blue|4|area|1
+Upstream Contributing Area|legend/area|5|lf|grey|grey|4|area|1
 Little Creek Subwatershed|legend/area|5|lf|77:255:255:255|none|4|area|4
-Cluster 1|basic/point|20|lf|0:29:57|0:103:204|0|point|6
+B Everett Jordan Lake-New Hope River Watershed|legend/area|5|lf|77:77:77:255|none|2|area|25
+Counties|legend/area|5|lf|grey|none|4|area|6
