@@ -1,0 +1,4 @@
+Counties|legend/area|5|lf|grey|none|4|area|6
+WalnutCreek-Neuse River Watershed|legend/area|5|lf|77:77:77:255|none|2|area|25
+Walnut Creek Subwatershed|legend/area|5|lf|77:255:255:255|none|4|area|4
+Cluster 2|basic/point|20|lf|0:29:57|0:103:204|0|point|6
