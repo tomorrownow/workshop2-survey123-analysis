@@ -1,4 +1,4 @@
 Clusters|basic/point|20|lf|black|black|0|point|3
 Watersheds Containing Clusters|legend/area|5|lf|77:255:255:255|none|2|area|3
 Watersheds|legend/area|5|lf|77:77:77:255|none|1|area|5203
-Research Triangle Counties|legend/area|5|lf|000:000:000|none|3|area|23
+Research Triangle Counties|legend/area|5|lf|grey|none|3|area|23
