@@ -1,0 +1,45 @@
+11,Open Water,1,Orange County,10718448.134407,107184
+11,Open Water,2,Durham County,28233126.789516,282330
+11,Open Water,3,Wake County,65065792.198287,650655
+21,Developed (Open Space),1,Orange County,99643147.476447,996427
+21,Developed (Open Space),2,Durham County,147067660.449652,1470670
+21,Developed (Open Space),3,Wake County,453063134.587192,4530611
+22,Developed (Low Intensity),1,Orange County,28070126.057510,280700
+22,Developed (Low Intensity),2,Durham County,71680221.902141,716799
+22,Developed (Low Intensity),3,Wake County,237644767.221637,2376437
+23,Developed (Medium Intensity),1,Orange County,10717848.131713,107178
+23,Developed (Medium Intensity),2,Durham County,39441477.124170,394413
+23,Developed (Medium Intensity),3,Wake County,124556159.354376,1245556
+24,Developed (High Intensity),1,Orange County,3092213.886520,30922
+24,Developed (High Intensity),2,Durham County,11027149.520723,110271
+24,Developed (High Intensity),3,Wake County,31963543.542136,319634
+31,Barren Land,1,Orange County,724503.253600,7245
+31,Barren Land,2,Durham County,1541106.920805,15411
+31,Barren Land,3,Wake County,6787630.481897,67876
+41,Deciduous Forest,1,Orange County,401951805.066974,4019500
+41,Deciduous Forest,2,Durham County,148867868.534191,1488672
+41,Deciduous Forest,3,Wake County,225225711.449001,2252247
+42,Evergreen Forest,1,Orange County,103663865.532458,1036634
+42,Evergreen Forest,2,Durham County,99965548.924269,999651
+42,Evergreen Forest,3,Wake County,309786991.192235,3097856
+43,Mixed Forest,1,Orange County,143488444.375780,1434878
+43,Mixed Forest,2,Durham County,98776443.584303,987760
+43,Mixed Forest,3,Wake County,319980136.965512,3199787
+52,Shrub/Scrub,1,Orange County,17181777.159924,171817
+52,Shrub/Scrub,2,Durham County,5935926.657066,59359
+52,Shrub/Scrub,3,Wake County,21567396.854941,215673
+71,Grassland/Herbaceous,1,Orange County,16778275.347871,167782
+71,Grassland/Herbaceous,2,Durham County,14798466.456948,147984
+71,Grassland/Herbaceous,3,Wake County,63837286.681293,638370
+81,Pasture/Hay,1,Orange County,181134913.441998,1811341
+81,Pasture/Hay,2,Durham County,52756036.917425,527558
+81,Pasture/Hay,3,Wake County,160188719.374907,1601880
+82,Cultivated Crops,1,Orange County,28778229.237472,287781
+82,Cultivated Crops,2,Durham County,7958435.739747,79584
+82,Cultivated Crops,3,Wake County,105891175.534734,1058907
+90,Woody Wetlands,1,Orange County,4995622.434349,49956
+90,Woody Wetlands,2,Durham County,40307681.014133,403075
+90,Woody Wetlands,3,Wake County,85609284.453978,856089
+95,Emergent Herbaceous Wetlands,1,Orange County,137900.619284,1379
+95,Emergent Herbaceous Wetlands,2,Durham County,1506006.763177,15060
+95,Emergent Herbaceous Wetlands,3,Wake County,5005022.476563,50050
